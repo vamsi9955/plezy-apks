@@ -6,11 +6,12 @@ Standalone `.apk` files automatically extracted from [edde746/plezy](https://git
 
 ## Install via Obtainium
 
+
 1. Open Obtainium
 2. Tap **Add App**
 3. Paste this URL:
    ```
-   https://github.com/derFrisson/plezy-apks
+   https://github.com/vamsi9955/plezy-apks/releases
    ```
 4. Set **APK filter regex** to match your device:
    - `arm64-v8a` — most modern phones *(recommended)*
